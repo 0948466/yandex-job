@@ -57,7 +57,7 @@ transferred from your last leg.
 
 ## Результат:
 
-Скрипт schedule.js:  
+Скрипт schedule.js или schedule1.js:  
 
     /*
         Функция принимает массив карточек с обязательными полями from, to и type.
